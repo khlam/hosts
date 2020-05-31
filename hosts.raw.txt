@@ -1667,20 +1667,7 @@ scontent.fmex5-1.fna.fbcdn.net
 external.fmex5-1.fna.fbcdn.net
 es-la.facebook.com
 
-# Firefox telemetry
-tiles.services.mozilla.com
-experiments.mozilla.org
-telemetry.mozilla.org
-incoming.telemetry.mozilla.org
-telemetry-experiment.cdn.mozilla.net
-search.services.mozilla.com
-onyx_tiles.stage.mozaws.net
-crash-stats.mozilla.com
-fhr.cdn.mozilla.net
-blocked.cdn.mozilla.net
-tbpl.mozilla.org
-detectportal.firefox.com
-
-#screenshots.firefox.com
-
-#ciscobinary.openh264.org
+# Firefox
+0.0.0.0 telemetry.mozilla.org
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 telemetry-experiment.cdn.mozilla.net
