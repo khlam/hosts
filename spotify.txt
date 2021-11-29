@@ -34,3 +34,4 @@
 0.0.0.0 video-fa.cdn.spotify.com
 0.0.0.0 video-fa-b.cdn.spotify.com
 0.0.0.0 video-akpcw-cdn-spotify-com.akamaized.net
+0.0.0.0 guc3-accesspoint-a-mmk2.ap.spotify.com
