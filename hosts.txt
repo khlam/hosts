@@ -26,7 +26,6 @@
 0.0.0.0 telemetry-dce.gfe.nvidia.com
 0.0.0.0 downloadstage.gfe.nvidia.com
 0.0.0.0 activation.gfe.nvidia.com
-0.0.0.0 images.nvidiagrid.net
 0.0.0.0 sms.gfe.nvidia.co
 0.0.0.0 ota-downloads.nvidia.com
 0.0.0.0 events-lon1.gfe.nvidia.com
@@ -34,7 +33,6 @@
 0.0.0.0 beta.telemetry.gfe.nvidia.com
 0.0.0.0 rds-assets.nvidia.com
 0.0.0.0 nvidia.tt.omtrdc.net
-0.0.0.0 images.nvidia.com
 0.0.0.0 accounts.nvgs.nvidia.com
 0.0.0.0 heartbeats.omtrdc.net
 
